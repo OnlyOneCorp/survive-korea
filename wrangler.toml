@@ -9,4 +9,4 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "survive-korea-ranks"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "4abdd935-9a98-4f60-b84b-53eece42e215"
